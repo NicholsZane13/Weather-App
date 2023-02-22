@@ -1,10 +1,30 @@
 # module6ku
-GIVEN a weather dashboard with form inputs
-WHEN I search for a city
-THEN I am presented with current and future conditions for that city and that city is added to the search history
-WHEN I view current weather conditions for that city
-THEN I am presented with the city name, the date, an icon representation of weather conditions, the temperature, the humidity, and the the wind speed
-WHEN I view future weather conditions for that city
-THEN I am presented with a 5-day forecast that displays the date, an icon representation of weather conditions, the temperature, the wind speed, and the humidity
-WHEN I click on a city in the search history
-THEN I am again presented with current and future conditions for that city
+
+# Weather application
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Description
+
+A simple javascript application that fetches the weather information from the API to display results for the user
+
+## Installation
+
+Run npm init and then npm install to run the program.
+
+## Usage
+
+To find the 5 day forecast for the users searched city
+
+## Credits
+
+Youtube, KU TA's and Instructorm, Google
+
+## License
+
+Licensed under the [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) license
+
+## Questions
+
+If there is any questions, please feel free to contact me. My name is Zane Nichols, and my email is nichols.zane16@gmail.com.
+If you'd like to check out any of my other work, check out my github profile at NicholsZane13
